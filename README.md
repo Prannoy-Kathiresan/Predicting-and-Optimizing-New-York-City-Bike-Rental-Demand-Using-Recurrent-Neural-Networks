@@ -61,7 +61,8 @@ This project uses deep learning to predict the demand for Lyft bike end stations
 ![GRU Hyperparameter Loss](images/Picture4.png)
 
 ### 📊 Feature Importance:
-![Feature Importance](images/Picture5.png)
+
+<img src="images/Picture5.png" width="500" height="300"/>
 
 ## 🔍 Key Insights
 

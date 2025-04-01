@@ -114,12 +114,5 @@ jupyter notebook Data_extraction.ipynb
 ## 📘 References
 
 - NYC Citi Bike (Lyft) datasets – Jersey City
-- IE434 Deep Learning — University of Illinois at Urbana-Champaign
 - Research on GRU/RNN architectures and demand prediction
 
----
-
-## 📬 Contact
-
-Created by [Prannoy Kathiresan](https://www.linkedin.com/in/prannoy-kathiresan) and team  
-Feel free to reach out for questions or collaboration!

@@ -44,21 +44,22 @@ This project uses deep learning to predict the demand for Lyft bike end stations
 ## 🖼 Visual Results
 
 ### 📉 Baseline Model – Training Loss
-![Baseline Training Loss](images/Picture1.png)
+
+<img src="images/Picture1.png" width="500" height="300"/>
 
 ### 📉 GRU Model – Training Loss Across Hyperparameters (learning Rate, Number of Epochs, Hidden Layer Size, Batch Size)
 
 **Hyperparamter {0.001, 10, 32, 50} and AdamW optimizer:**
 
-![GRU Hyperparameter Loss](images/Picture2.png)
+<img src="images/Picture2.png" width="500" height="300"/>
 
 **Hyperparamter {0.1, 15, 64, 100} and AdamW optimizer :**
 
-![GRU Hyperparameter Loss](images/Picture3.png)
+<img src="images/Picture3.png" width="500" height="300"/>
 
 **Hyperparamter {0.001, 10, 128, 100} and Adam optimizer :**
 
-![GRU Hyperparameter Loss](images/Picture4.png)
+<img src="images/Picture4.png" width="500" height="300"/>
 
 ### 📊 Feature Importance:
 
